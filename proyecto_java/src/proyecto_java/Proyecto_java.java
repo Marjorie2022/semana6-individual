@@ -10,6 +10,7 @@ public class Proyecto_java {
     }
     
     public static void MarjorieRamirez(){
+        System.out.println("Hola Mundo!");
     }
     
 }
